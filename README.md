@@ -1,6 +1,6 @@
 # AgateCompany
 
-**AgateSys** is a backend system designed to manage various aspects of an advertising agency's operations, including clients, staff, campaigns, and advertisements. Built with Go, it uses the Gin framework to make handling HTTP requests smooth and straightforward.
+**AgateCompany** is a backend system designed to manage various aspects of an advertising agency's operations, including clients, staff, campaigns, and advertisements. Built with Go, it uses the Gin framework to make handling HTTP requests smooth and straightforward.
 
 ## Features
 
